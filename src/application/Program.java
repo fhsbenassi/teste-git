@@ -10,5 +10,10 @@ public class Program {
 		System.out.println("Boa noite!");
 		System.out.println("Boa noite!");
 		System.out.println("Boa noite!");
+		System.out.println("Bom dia!");
+		System.out.println("Bom dia!");
+		System.out.println("Bom dia!");
+		System.out.println("Bom dia!");
+		
 	}
 }
