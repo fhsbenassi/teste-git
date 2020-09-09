@@ -14,6 +14,8 @@ public class Program {
 		System.out.println("Bom dia!");
 		System.out.println("Bom dia!");
 		System.out.println("Bom dia!");
+		System.out.println("teste");
+		System.out.println("teste");
 		
 	}
 }
